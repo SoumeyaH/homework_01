@@ -51,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/*html div changed to image no css changes */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,12 +71,14 @@ p {
     margin-left: 25px;
 }
 
+/*html div class content changed to section class content no changes needed in css*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*html div class benefits changed to aside class benefits no changes needed in css*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -135,6 +138,7 @@ p {
     max-width: 150px;
 }
 
+/*html div changed article*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
