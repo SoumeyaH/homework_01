@@ -1,17 +1,19 @@
 # Homework 01 - HTML, CSS, and GIT refactor
-=====
+
 
 ## Description:
-=====
+
 
 
 
 ## Screenshots:
-======
-use markdown cheatsheet to figure out how to put pics in https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+![Screenshot of the top half of the homework webpage](C:\Users\soume\Pictures\Screenshots\Screenshot-01.png "Screenshot top half of page")
+
+![Screenshot of the bottom half of the homework webpage](C:\Users\soume\Pictures\Screenshots\Screenshot-02.png "Screenshot bottom half of page")
 
 
 
 ## Github Pages URL:
-=====
+
 https://soumeyah.github.io/homework_01/
