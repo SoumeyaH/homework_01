@@ -53,6 +53,7 @@ header nav ul li {
   margin-left: 25px;
 }
 
+/* This section styles and adds te background image to the page */
 .hero {
   height: 800px;
   width: 100%;
@@ -62,11 +63,13 @@ header nav ul li {
   background-position: center;
 }
 
+/* Floats the image left for the sections with classes search-engine-optimization and social-media-marketing */
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+/* Floats the image right for the section class online-reputation-management */
 .float-right {
   float: right;
   margin-left: 25px;
