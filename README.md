@@ -1,8 +1,9 @@
 # Homework 01 - Horiseon Webpage Refactor.
 
-<!-- How do I get prettier to stop altering first line want it to say table of contents-->
+## Table of Contents
 
 - [Homework 01 - Horiseon Webpage Refactor.](#homework-01---horiseon-webpage-refactor)
+  - [Table of Contents](#table-of-contents)
   - [Github Pages URL](#github-pages-url)
   - [Description](#description)
     - [What Was Done](#what-was-done)
