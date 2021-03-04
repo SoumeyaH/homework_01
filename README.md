@@ -1,19 +1,25 @@
-# Homework 01 - HTML, CSS, and GIT refactor
-
-
-## Description:
-
-
-
-
-## Screenshots:
-
-![Screenshot of the top half of the homework webpage](screenshots\Screenshot-01.png "Screenshot top half of page")
-
-![Screenshot of the bottom half of the homework webpage](screenshots\Screenshot-02.png "Screenshot bottom half of page")
-
-
+# Homework 01 - Horiseon Refactor.
 
 ## Github Pages URL:
 
-https://soumeyah.github.io/homework_01/
+[Click here](https://soumeyah.github.io/homework_01/) for link to github pages deployed website.
+
+## Description:
+
+What the issue was?
+WE
+The key to the homework was accessibility and as such
+
+make document for so using semantic html and including alt attribute to img elements
+
+In the future I would suggest that the website more responsive.
+
+## Screenshots:
+
+### Before refactor:
+
+![Website before refactor](./screenshots/website-before-refactor.png "Website before refactor")
+
+### After refactor:
+
+![Website after refactor](placeholder "Website after refactor")
