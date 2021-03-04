@@ -19,7 +19,7 @@ As a marketing agency we were given the task of refactoring a webpage for Horise
 - The CSS stylesheet was reorder to roughly follow HTML document layout.
 - The type selector p and a were moved to higher up the stylesheet as these elements appear throughout the HTML document to make it easier for any future developer to target them.
 
-In the future I would suggest that the website more responsive.
+In the future the website could be improved by making it responsive.
 
 ## Getting started:
 
@@ -27,8 +27,10 @@ In the future I would suggest that the website more responsive.
 - Navigate into project and open in VSCode.
 - Open the index.html file in broswer preferably Chrome.
 
-git clonegit@github.com:SoumeyaH/homework_01.git
+git clone git@github.com:SoumeyaH/homework_01.git
+
 cd homework-week-01
+
 code .
 
 ## Screenshots:
