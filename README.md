@@ -5,7 +5,7 @@
 - [Homework 01 - Horiseon Webpage Refactor.](#homework-01---horiseon-webpage-refactor)
   - [Github Pages URL](#github-pages-url)
   - [Description](#description)
-  - [What Was Done](#what-was-done)
+    - [What Was Done](#what-was-done)
   - [Getting Started](#getting-started)
   - [Screenshots](#screenshots)
     - [Before Refactor:](#before-refactor)
@@ -19,7 +19,7 @@
 
 As a marketing agency we were given the task of refactoring a webpage for Horiseon with the key focus on improving web **accessibility** and **search engine optimization**.
 
-## What Was Done
+### What Was Done
 
 - Throughout document HTML elements were changed to semantic HTML elements.
 - In the header the broken navigation link was fixed and the title was updated.
