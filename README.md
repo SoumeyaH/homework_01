@@ -49,8 +49,8 @@ code .
 
 ### Before Refactor:
 
-![Website before refactor](./screenshots/website-before-refactor.png)
+![Website before refactor](/assets/screenshots/website-before-refactor.png)
 
 ### After Refactor:
 
-![Website after refactor](./screenshots/website-after-refactor.png)
+![Website after refactor](./assets/screenshots/website-after-refactor.png)
