@@ -42,4 +42,4 @@ code .
 
 ### After refactor:
 
-![Website after refactor](placeholder "Website after refactor")
+![Website after refactor](./screenshots/website-after-refactor.png "Website after refactor")
