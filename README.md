@@ -1,5 +1,7 @@
 # Homework 01 - Horiseon Webpage Refactor.
 
+<!-- How do I get prettier to stop altering first line want it to say table of contents-->
+
 - [Homework 01 - Horiseon Webpage Refactor.](#homework-01---horiseon-webpage-refactor)
   - [Github Pages URL](#github-pages-url)
   - [Description](#description)
@@ -28,7 +30,7 @@ As a marketing agency we were given the task of refactoring a webpage for Horise
 - The CSS stylesheet was reordered to roughly follow HTML document layout.
 - The type selectors p and a were moved to higher up the stylesheet as these elements appear throughout the HTML document to make it easier for any future developer to target them.
 
-In the future the website could be improved by making it responsive.
+In the future the website could be improved by making it more dynamic and responsive.
 
 ## Getting Started
 
@@ -51,7 +53,3 @@ code .
 ### After Refactor:
 
 ![Website after refactor](./screenshots/website-after-refactor.png)
-
-web dev
-
-![Website](./screenshots/img-three.png)
