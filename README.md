@@ -29,7 +29,7 @@ As a marketing agency we were given the task of refactoring a webpage for Horise
 - The HTML document and CSS stylesheet code were formatted using lint (prettier).
 - Repeating CSS was consolidated.
 - The CSS stylesheet was reordered to roughly follow HTML document layout.
-- The type selectors p and a were moved to higher up the stylesheet as these elements appear throughout the HTML document to make it easier for any future developer to target them.
+- The type selectors <p> and <a> were moved to higher up the stylesheet as these elements appear throughout the HTML document to make it easier for any future developer to target them.
 
 In the future the website could be improved by making it more dynamic and responsive.
 
