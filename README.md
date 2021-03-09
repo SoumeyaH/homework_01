@@ -14,7 +14,7 @@
 
 ## Github Pages URL
 
-[Click here](https://soumeyah.github.io/homework_01/) for link to github pages deployed website.
+[Click here](https://soumeyah.github.io/horiseon_website_code_refactor/) for link to github pages deployed website.
 
 ## Description
 
